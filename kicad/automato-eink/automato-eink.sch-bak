@@ -515,7 +515,7 @@ U 1 1 631F46FA
 P 7250 3850
 F 0 "J?" H 7358 4331 50  0000 C CNN
 F 1 "Conn_01x08_Male" H 7358 4240 50  0000 C CNN
-F 2 "" H 7250 3850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7250 3850 50  0001 C CNN
 F 3 "~" H 7250 3850 50  0001 C CNN
 	1    7250 3850
 	1    0    0    -1  
@@ -527,15 +527,11 @@ Wire Wire Line
 Wire Wire Line
 	2650 3700 2650 3800
 Wire Wire Line
-	7450 3650 7700 3650
-Wire Wire Line
 	7450 3750 7700 3750
 Wire Wire Line
 	7450 3850 7700 3850
 Wire Wire Line
 	7450 3950 7700 3950
-Wire Wire Line
-	7450 4050 7700 4050
 Wire Wire Line
 	7450 4150 7700 4150
 Wire Wire Line
@@ -574,4 +570,8 @@ F 3 "" H 7700 4250 50  0001 C CNN
 	1    7700 4250
 	0    1    1    0   
 $EndComp
+Wire Wire Line
+	7450 3650 7700 3650
+Wire Wire Line
+	7450 4050 7700 4050
 $EndSCHEMATC
