@@ -1,0 +1,12 @@
+Reference,Quantity,Value,Manufacturer,Manufacturer Part Number,Digikey Part Number,Digikey Link
+"D1, D2, D3",3,40V 1A Schottky diode,SMC Diode Solutions,  DSS14U,1655-DSS14UCT-ND,https://www.digikey.com/en/products/detail/smc-diode-solutions/DSS14U/8341859
+L1,1,FIXED IND 68UH 1.1A 299 MOHM SMD ,Taiyo Yuden,NR8040T680M,587-2637-1-ND,https://www.digikey.com/en/products/detail/taiyo-yuden/NR8040T680M/2349966
+C1,1,  CAP CER 4.7UF 25V X5R 0805,Samsung Electro-Mechanics,CL21A475KAQNNNG ,1276-6462-1-ND ,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNG/3894439
+"C2, C3",2,  CAP CER 0.1UF 50V X7R 0805,Samsung Electro-Mechanics,CL21B104KBFNNNE ,1276-1180-1-ND ,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBFNNNE/3886838
+"C4, C5, C6, C7, C8, C9, C10, C11, C12",9,CAP CER 1UF 50V X7R 0805,Samsung Electro-Mechanics,  CL21B105KBFNNNG,1276-6470-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNG/3894467
+R1,1,RES 10K OHM 1% 1/8W 0805 ,Stackpole Electronics Inc ,RMCF0805FT10K0,RMCF0805FT10K0CT-ND,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676
+R2,1,RES 0.47 OHM 1% 1/2W 0805,Panasonic Electronic Components ,"	
+ERJ-6DQFR47V",P19300CT-ND,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-6DQFR47V/6004383
+J1,1,"FLEX CONNECTOR, 0.50MM PITCH, HE ",Amphenol CS,F305-1A7H1-21024-E100 ,609-F305-1A7H1-21024-E100CT-ND ,https://www.digikey.com/en/products/detail/amphenol-cs-fci/F305-1A7H1-21024-E100/11564640
+J2,1,  CONN HEADER VERT 8POS 2.54MM,Adam Tech,PH1-08-UA,  2057-PH1-08-UA-ND,https://www.digikey.com/en/products/detail/adam-tech/PH1-08-UA/9830442
+Q1,1,MOSFET N-CH 30V 900MA SOT23 ,Diodes Incorporated,DMN3731U-7 ,31-DMN3731U-7CT-ND ,https://www.digikey.com/en/products/detail/diodes-incorporated/DMN3731U-7/10295271
